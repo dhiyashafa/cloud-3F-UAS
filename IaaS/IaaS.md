@@ -16,6 +16,4 @@ Langkah 6
 ![Langkah 6](img/6.png)
 Langkah 7
 ![Langkah 7](img/7.png)
-Langkah 8
-![Langkah 8](img/8.png)
 
