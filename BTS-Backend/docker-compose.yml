@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  api_tokosepatu1:
+    image: r45y1d/bts_bromo
+    container_name: bts_bromo
+    ports:
+      - 3000:80
